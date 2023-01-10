@@ -19,4 +19,4 @@ Past Clients
 
 ### Support or Contact
 
-For more information please email contact@jaminfotech.co.uk
+For more information please email mailto:contact@jaminfotech.co.uk
