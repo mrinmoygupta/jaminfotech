@@ -1,3 +1,8 @@
+---
+title: Jam Infotech Limited
+layout: template
+filename: index.md
+--- 
 ## Services
 
 We provide data & BI services with a focus on Microsoft Technologies. We are experienced in developing and implementing end-to-end Data solutions applying best practices. 
@@ -14,6 +19,8 @@ Past Clients
 - FLuor
 - TCO
 - Auxitrol Weston
+
+[Link text Here](/projects.md)
 
 ### Support or Contact
 
