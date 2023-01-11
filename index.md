@@ -19,8 +19,6 @@ Past Clients
 - TCO
 - Auxitrol Weston
 
---[Past Projects](/projects)
-
 ### Support or Contact
 
 For more information please email [contact@jaminfotech.co.uk](mailto:contact@jaminfotech.co.uk)
