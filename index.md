@@ -20,7 +20,7 @@ Past Clients
 - TCO
 - Auxitrol Weston
 
-[Link text Here](/projects.md)
+[Link text Here](/projects)
 
 ### Support or Contact
 
