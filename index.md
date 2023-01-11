@@ -25,7 +25,7 @@ We provide data & BI services with a focus on Microsoft Technologies. We are exp
 - TCO
 - Auxitrol Weston
 
-- [Past Projects](/projects)
+[Past Projects](/projects)
 
 ### Support or Contact
 
