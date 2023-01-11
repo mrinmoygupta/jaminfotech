@@ -7,15 +7,13 @@ We provide data & BI services with a focus on Microsoft Technologies. We are exp
 - Microsoft SQL Server
 - Azuire Data Factory
 
+
 ```markdown
 Past Clients
 
 - FLuor
 - TCO
 - Auxitrol Weston
-
-[Link](url) and ![Image](src)
-```
 
 ### Support or Contact
 
