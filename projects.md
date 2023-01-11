@@ -5,7 +5,7 @@ filename: projects.md
 
 ## Past Projects
 
-- Jun 2019 - Apr 2021 (Oil & Gas)
+# Jun 2019 - Apr 2021 (Oil & Gas)
 
 FGP-WPMP is designed to increase total daily production from the Tengiz reservoir and maximize the recovery of resources using state-of-the-art sour gas injection technology. Contributed in company’s Digital Transformation programmes delivering solutions using Azure, Power BI, SQL Server, SSIS, SSAS & PowerShell and Power Platform tools.
 Project Milestones: 
@@ -15,5 +15,10 @@ Project Milestones:
 • Digitalised contract submission process: Delivered a solution for contract submission and approval process by replacing paper based form and manual approval process by using Microsoft Forms, Power Apps, SharePoint & Power Automate. 
 • Provided Power BI Training
 
+
+
+# Apr 2019 - Jun 2019 (Maufacturing)
+
+Designed and developed BI solutions around client’s ERP and other sub-systems using Baan IV c4, SQL Server 2012/2014, SSIS, SSRS and Power BI. Provided end to end solution starting from requirement gathering, designing & development and documentation. Work included SSRS version migration to 2012, development in SQL Server, SSIS & Power BI to facilitate integrated Sales reporting.
 
 [Home](index)
