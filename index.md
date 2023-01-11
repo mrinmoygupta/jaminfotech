@@ -1,6 +1,5 @@
 ---
 title: Jam Infotech Limited
-layout: template
 filename: index.md
 --- 
 ## Services
@@ -20,7 +19,7 @@ Past Clients
 - TCO
 - Auxitrol Weston
 
-[Link text Here](/projects)
+--[Past Projects](/projects)
 
 ### Support or Contact
 
